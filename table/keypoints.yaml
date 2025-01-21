@@ -1,0 +1,1076 @@
+image_data:
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_0000.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 626
+      v: 852
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1812
+      v: 835
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 908
+      v: 306
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1260
+      v: 303
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 799
+      v: 383
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1448
+      v: 380
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_0194.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 535
+      v: 855
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1800
+      v: 871
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 902
+      v: 418
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1244
+      v: 419
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 788
+      v: 460
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1409
+      v: 473
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_0584.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 889
+      v: 831
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1419
+      v: 701
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 706
+      v: 488
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 981
+      v: 483
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 724
+      v: 549
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1142
+      v: 522
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_0779.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 295
+      v: 890
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1498
+      v: 866
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 759
+      v: 453
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1096
+      v: 438
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 610
+      v: 511
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1222
+      v: 484
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_1169.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: -1
+      v: -1
+    name: b_l
+    visible: 0
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 854
+      v: 449
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1249
+      v: 479
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 702
+      v: 524
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1501
+      v: 576
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_1559.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 428
+      v: 690
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1559
+      v: 738
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 829
+      v: 352
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1155
+      v: 364
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 701
+      v: 379
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1288
+      v: 402
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_1949.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 516
+      v: 948
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1588
+      v: 953
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 860
+      v: 565
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1178
+      v: 561
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 741
+      v: 613
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1311
+      v: 616
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_2144.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 305
+      v: 806
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1471
+      v: 595
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 620
+      v: 337
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 969
+      v: 298
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 492
+      v: 384
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1119
+      v: 311
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_2339.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 752
+      v: 739
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 931
+      v: 227
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1296
+      v: 240
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 852
+      v: 274
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1512
+      v: 302
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_2534.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 640
+      v: 655
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 929
+      v: 197
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1294
+      v: 209
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 828
+      v: 229
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1512
+      v: 258
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_2729.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 350
+      v: 897
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1501
+      v: 874
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 760
+      v: 437
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1092
+      v: 431
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 624
+      v: 506
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1226
+      v: 492
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_3509.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 752
+      v: 785
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 1018
+      v: 365
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1368
+      v: 392
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 925
+      v: 402
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1576
+      v: 457
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_3704.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 132
+      v: 973
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1069
+      v: 836
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 545
+      v: 542
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 861
+      v: 481
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 378
+      v: 632
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 928
+      v: 520
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_3899.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 288
+      v: 909
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1471
+      v: 723
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 635
+      v: 376
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 982
+      v: 344
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 499
+      v: 449
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1129
+      v: 380
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_4289.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: -1
+      v: -1
+    name: b_l
+    visible: 0
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: -1
+      v: -1
+    name: t_l
+    visible: 0
+  - id: 3
+    image_coords:
+      u: -1
+      v: -1
+    name: t_r
+    visible: 0
+  - id: 4
+    image_coords:
+      u: -1
+      v: -1
+    name: n_l
+    visible: 0
+  - id: 5
+    image_coords:
+      u: -1
+      v: -1
+    name: n_r
+    visible: 0
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_4484.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: -1
+      v: -1
+    name: b_l
+    visible: 0
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: -1
+      v: -1
+    name: t_l
+    visible: 0
+  - id: 3
+    image_coords:
+      u: 142
+      v: 233
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: -1
+      v: -1
+    name: n_l
+    visible: 0
+  - id: 5
+    image_coords:
+      u: 142
+      v: 320
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_4679.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: -1
+      v: -1
+    name: b_l
+    visible: 0
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 764
+      v: 426
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1168
+      v: 419
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 628
+      v: 524
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1459
+      v: 503
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_4874.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 642
+      v: 747
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 920
+      v: 287
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1274
+      v: 289
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 819
+      v: 320
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1488
+      v: 328
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_5264.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: -1
+      v: -1
+    name: b_l
+    visible: 0
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 1178
+      v: 511
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1582
+      v: 574
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 1122
+      v: 581
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1898
+      v: 696
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_5459.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 544
+      v: 797
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1868
+      v: 723
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 848
+      v: 309
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1198
+      v: 307
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 738
+      v: 348
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1394
+      v: 353
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_5654.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 521
+      v: 630
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1762
+      v: 717
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 930
+      v: 290
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1276
+      v: 299
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 801
+      v: 317
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1435
+      v: 338
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_6044.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 500
+      v: 676
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1775
+      v: 808
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 950
+      v: 313
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1302
+      v: 332
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 808
+      v: 342
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1456
+      v: 378
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_6824.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 534
+      v: 698
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1526
+      v: 708
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 841
+      v: 355
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1161
+      v: 357
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 732
+      v: 390
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1288
+      v: 396
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_7019.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 638
+      v: 733
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: 1846
+      v: 696
+    name: b_r
+    visible: 1
+  - id: 2
+    image_coords:
+      u: 892
+      v: 317
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1232
+      v: 314
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 798
+      v: 352
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1424
+      v: 349
+    name: n_r
+    visible: 1
+- bounding_box:
+    x_max: 814
+    x_min: 320
+    y_max: 1171
+    y_min: 630
+  image_id:  \table\frame_7604.jpg
+  keypoints:
+  - id: 0
+    image_coords:
+      u: 719
+      v: 702
+    name: b_l
+    visible: 1
+  - id: 1
+    image_coords:
+      u: -1
+      v: -1
+    name: b_r
+    visible: 0
+  - id: 2
+    image_coords:
+      u: 928
+      v: 249
+    name: t_l
+    visible: 1
+  - id: 3
+    image_coords:
+      u: 1286
+      v: 239
+    name: t_r
+    visible: 1
+  - id: 4
+    image_coords:
+      u: 842
+      v: 284
+    name: n_l
+    visible: 1
+  - id: 5
+    image_coords:
+      u: 1500
+      v: 274
+    name: n_r
+    visible: 1
