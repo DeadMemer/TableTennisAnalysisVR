@@ -11,4 +11,5 @@ Ball dataset: https://app.roboflow.com/computer-vision-project-mjsdu/table-tenni
  # How to Run
  Just use the .ipynb file on Google Colab giving a video with .mp4 format of the game.
 
+ # Us
  ![pingpong_squad](https://github.com/user-attachments/assets/7b8c1ad4-8a52-4469-84e3-69c0998c2625)
